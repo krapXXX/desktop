@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+div{
+    border: 1px solid blue;
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px;
+}
+
+.main
+{    
+    background-color: rgb(216, 216, 216);
+    height: 300px;
+    position: relative;
+    left:25%;
+    right:25%;
+    width: 50%;
+}
+
+.footer{
+    clear: left;
+}
